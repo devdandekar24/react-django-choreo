@@ -1,8 +1,16 @@
 version: 0.1
 
 endpoints:
+<<<<<<< HEAD
   - name:"REST API"
     port:8000
     type:REST
     networkVisibility:Public
     context:/
+=======
+  - name: "REST API"
+    port: 8000
+    type: REST
+    networkVisibility: Public
+    context: /
+>>>>>>> 62859b478819018b77c6517bf1f63b5f4ddc3394
